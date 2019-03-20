@@ -10,7 +10,7 @@ A purchase summary UI using React and apply discount code w/ Redux.
 - Apply/Hide Promo Code expander (using Redux; enter promo "DISCOUNT" for 10% off)
 
 ## Watch Video Demo
-[![YouTube React/Redux Demo: Purchase Summary](http://img.youtube.com/vi/9iBd4QF79ws/0.jpg)](http://www.youtube.com/watch?v=9iBd4QF79ws "YouTube React/Redux Demo: Purchase Summary")
+[![YouTube React/Redux Demo: Purchase Summary](http://img.youtube.com/vi/yc9CxFOfDeM/0.jpg)](http://www.youtube.com/watch?v=yc9CxFOfDeM "YouTube React/Redux Demo: Purchase Summary")
 
 ## Credits
 [Paul Hanna YouTube Tutorial](https://youtu.be/KLCnTjB0w_o)

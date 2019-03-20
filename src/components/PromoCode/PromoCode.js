@@ -34,7 +34,6 @@ class PromoCode extends Component {
               <Col md={12}>
                 <Form>
                   <Form.Group controlId="formInlineName">
-                    <Form.Label>Promo Code</Form.Label>
                     <Form.Control
                       type="text"
                       placeholder="Enter promo code"
@@ -45,7 +44,7 @@ class PromoCode extends Component {
                   <Button
                     block
                     type="submit"
-                    variant="success"
+                    variant="info"
                     className="btn-round"
                     disabled={this.props.isDisabled}
                     onClick={this.props.giveDiscount}

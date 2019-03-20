@@ -7,7 +7,7 @@ var styles = {
     textDecoration: "underline"
   },
   totalSavings: {
-    color: "red",
+    color: "#17a2b8",
     fontWeight: 800
   }
 };

@@ -25,17 +25,28 @@ export default class ItemDetails extends Component {
             <Media>
               <img
                 width={100}
-                height={100}
                 className="mr-3"
                 alt="thumbnail"
-                src="https://i5.walmartimages.com/asr/e73e1252-642c-4473-93ea-fd3b564a7027_1.3e81ea58fa3042452fe185129a4a865f.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
+                src="https://s7d5.scene7.com/is/image/Anthropologie/45455450AA_067_b10?$a15-pdp-detail-shot$&hei=900&qlt=80&fit=constrain"
               />
               <Media.Body>
-                <p>Essentials by OFM ESS-3085 Racing Style Gaming Chair, Red</p>
-                <Col md={6}>
-                  <strong> {`$${this.props.price}`} </strong>
-                </Col>
-                <Col md={6}> Qty: 1 </Col>
+                <p>Joanna Gaines for Anthropologie Textured Eva Pillow.</p>
+                <p>
+                  <strong>Color: </strong>Terracotta
+                </p>
+                <p>
+                  <strong>Style #: </strong> 45455450AA
+                </p>
+                <p>
+                  <strong>Size: </strong> 20"x20"
+                </p>
+                <p>
+                  <strong>Item Price: </strong>
+                  {`$${this.props.price}`}
+                </p>
+                <p>
+                  <strong>Qty: </strong>1
+                </p>
               </Media.Body>
             </Media>
           </div>

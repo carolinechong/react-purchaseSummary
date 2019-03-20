@@ -17,8 +17,8 @@ class App extends Component {
     super(props);
 
     this.state = {
-      total: 100,
-      PickupSavings: -3.85,
+      total: 78,
+      PickupSavings: -6.95,
       taxes: 0,
       estimatedTotal: 0,
       disablePromoButton: false

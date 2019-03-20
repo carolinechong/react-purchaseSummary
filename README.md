@@ -1,4 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-purchaseSummary
+A purchase summary UI using React and apply discount code w/ Redux.
+
+## Features
+- Subtotal
+- Pickup Savings tooltip
+- Estimated Taxes & Fees
+- Estimated Total
+- See/Hide Item Details expander (item details, price, quantity)
+- Apply/Hide Promo Code expander (using Redux; enter promo "DISCOUNT" for 10% off)
+
+## Watch Video Demo
+[![YouTube React/Redux Demo: Purchase Summary](http://img.youtube.com/vi/yc9CxFOfDeM/0.jpg)](http://www.youtube.com/watch?v=yc9CxFOfDeM "YouTube React/Redux Demo: Purchase Summary")
+
+## Credits
+[Paul Hanna YouTube Tutorial](https://youtu.be/KLCnTjB0w_o)
 
 ## Available Scripts
 
@@ -39,30 +54,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

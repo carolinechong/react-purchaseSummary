@@ -1,3 +1,6 @@
+## Watch Video Demo
+[![YouTube React/Redux Demo: Purchase Summary](http://img.youtube.com/vi/9iBd4QF79ws/0.jpg)](http://www.youtube.com/watch?v=9iBd4QF79ws "YouTube React/Redux Demo: Purchase Summary")
+
 ## Features
 - Subtotal
 - Pickup Savings tooltip

@@ -1,9 +1,10 @@
 ## Features
 - Subtotal
 - Pickup Savings tooltip
-- Est. taxes & fees
-- See Item Details expander
-- Apply Promo Code expander (using Redux; enter promo "DISCOUNT" for 10% off)
+- Est. Taxes & Fees
+- Est. Total
+- See/Hide Item Details expander (item details, price, qty)
+- Apply/Hide Promo Code expander (using Redux; enter promo "DISCOUNT" for 10% off)
 
 ## Credits
 [Paul Hanna YouTube Tutorial](https://youtu.be/KLCnTjB0w_o)

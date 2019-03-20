@@ -1,13 +1,16 @@
-## Watch Video Demo
-[![YouTube React/Redux Demo: Purchase Summary](http://img.youtube.com/vi/9iBd4QF79ws/0.jpg)](http://www.youtube.com/watch?v=9iBd4QF79ws "YouTube React/Redux Demo: Purchase Summary")
+# react-purchaseSummary
+A purchase summary UI using React and apply discount code w/ Redux.
 
 ## Features
 - Subtotal
 - Pickup Savings tooltip
-- Est. Taxes & Fees
-- Est. Total
-- See/Hide Item Details expander (item details, price, qty)
+- Estimated Taxes & Fees
+- Estimated Total
+- See/Hide Item Details expander (item details, price, quantity)
 - Apply/Hide Promo Code expander (using Redux; enter promo "DISCOUNT" for 10% off)
+
+## Watch Video Demo
+[![YouTube React/Redux Demo: Purchase Summary](http://img.youtube.com/vi/9iBd4QF79ws/0.jpg)](http://www.youtube.com/watch?v=9iBd4QF79ws "YouTube React/Redux Demo: Purchase Summary")
 
 ## Credits
 [Paul Hanna YouTube Tutorial](https://youtu.be/KLCnTjB0w_o)
